@@ -9,7 +9,7 @@ import traceback
 
 app = FastAPI()
 
-# Static and templates
+# Mount frontend assets
 app.mount("/static", StaticFiles(directory="frontend/static"), name="static")
 templates = Jinja2Templates(directory="frontend/templates")
 
@@ -22,7 +22,7 @@ def serve_index(request: Request):
 @app.post("/ask")
 def ask_sql(request_data: PromptRequest):
     prompt = request_data.prompt
-
+    print("prompt", prompt)
     try:
         sql_query = generate_sql(prompt)
         conn = get_db_connection()

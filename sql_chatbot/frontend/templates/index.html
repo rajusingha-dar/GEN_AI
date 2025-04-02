@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Bank SQL Chatbot</title>
-    <link rel="stylesheet" href="/static/css/style.css">
+  <meta charset="UTF-8" />
+  <title>Bank Chatbot — Text to SQL</title>
+  <link rel="stylesheet" href="/static/css/style.css?v=2" />
 </head>
 <body>
-    <div class="chat-container">
-        <h1>Bank Chatbot (Text to SQL)</h1>
-        <textarea id="userPrompt" placeholder="Ask a question about employees, branches, or accounts..."></textarea>
-        <button onclick="sendPrompt()">Submit</button>
-        <div id="responseBox"></div>
+  <div class="container">
+    <h1>💬 Bank Chatbot — Text to SQL</h1>
+
+    <label for="userPrompt">Ask your question:</label>
+    <textarea id="userPrompt" placeholder="e.g., Show all customers who joined after 2022..."></textarea>
+    <button id="submitBtn" type="button">Submit</button>
+
+    <div id="sqlBlock">
+      <h3>🧠 Generated SQL</h3>
+      <pre id="sqlOutput" class="output-box"></pre>
     </div>
-    <script src="/static/js/scripts.js"></script>
+
+    <div id="resultBlock">
+      <h3>📊 Query Result</h3>
+      <div id="resultOutput" class="output-box"></div>
+    </div>
+  </div>
+
+  <script src="/static/js/scripts.js?v=2"></script>
 </body>
 </html>

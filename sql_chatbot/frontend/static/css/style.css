@@ -1,36 +1,90 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
     padding: 2rem;
-}
-
-.chat-container {
-    max-width: 700px;
+  }
+  
+  .container {
+    max-width: 800px;
     margin: auto;
-    background: white;
+    background-color: #1e1e1e;
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-textarea {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+  }
+  
+  h1 {
+    color: #90caf9;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  textarea {
     width: 100%;
     height: 120px;
-    margin-bottom: 1rem;
-    font-size: 1rem;
+    background-color: #252526;
+    color: #ffffff;
+    border: 1px solid #333;
     padding: 10px;
-}
-
-button {
-    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
     font-size: 1rem;
-    background-color: #007bff;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    background-color: #1976d2;
     color: white;
     border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 6px;
     cursor: pointer;
-}
-
-#responseBox {
-    margin-top: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #1565c0;
+  }
+  
+  .output-box {
+    background-color: #252526;
+    color: #00e676;
+    border: 1px solid #333;
+    padding: 15px;
+    border-radius: 6px;
     white-space: pre-wrap;
-}
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    max-height: 500px;
+    overflow-x: auto;
+  }
+  
+  .result-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+  
+  .result-table th,
+  .result-table td {
+    border: 1px solid #444;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  
+  .result-table th {
+    background-color: #2e2e2e;
+    color: #90caf9;
+  }
+  
