@@ -1,0 +1,129 @@
+2025-04-13 01:16:30,590 [INFO] [langgraph_flow] Building LangGraph flow...
+2025-04-13 01:16:30,910 [INFO] [config] Database connection established
+2025-04-13 01:16:30,913 [INFO] [config] Database connection established
+2025-04-13 01:16:30,916 [INFO] [auth] Login success for 1001
+2025-04-13 01:16:30,920 [INFO] [auth] Login success for 1001
+2025-04-13 01:16:30,984 [INFO] [main] Rendering chatbot page
+2025-04-13 01:16:30,997 [INFO] [main] Rendering chatbot page
+2025-04-13 01:20:43,963 [INFO] [main] Rendering chatbot page
+2025-04-13 01:20:48,580 [INFO] [main] Rendering login page
+2025-04-13 01:20:50,539 [INFO] [main] Rendering login page
+2025-04-13 01:20:54,048 [INFO] [main] Rendering login page
+2025-04-13 01:21:00,740 [INFO] [main] Rendering login page
+2025-04-13 01:21:09,042 [INFO] [main] Rendering login page
+2025-04-13 01:21:57,325 [INFO] [langgraph_flow] Building LangGraph flow...
+2025-04-13 01:22:00,052 [INFO] [main] Rendering login page
+2025-04-13 01:22:01,630 [INFO] [main] Rendering login page
+2025-04-13 01:27:45,179 [INFO] [main] Rendering login page
+2025-04-13 01:28:14,206 [INFO] [main] Rendering login page
+2025-04-13 01:28:15,886 [INFO] [main] Rendering login page
+2025-04-13 01:33:18,071 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:19,676 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:20,990 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:21,320 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:21,505 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:21,671 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:21,853 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:22,037 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:22,187 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:33:22,354 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:37:32,443 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:37:36,851 [INFO] [config] Database connection established
+2025-04-13 01:37:36,855 [INFO] [auth] Login success for 1001
+2025-04-13 01:37:36,865 [INFO] [main] >> [GET /chat] Serving chatbot.html
+2025-04-13 01:45:15,249 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:48:49,723 [INFO] [main] >> [GET /] Serving login.html
+2025-04-13 01:50:37,494 [INFO] [main] Rendering login page
+2025-04-13 01:52:18,314 [INFO] [main] Rendering login page
+2025-04-13 01:53:00,690 [INFO] [main] Rendering login page
+2025-04-13 01:56:28,458 [INFO] [main] Rendering login page
+2025-04-13 01:56:32,533 [INFO] [config] Database connection established
+2025-04-13 01:56:32,538 [INFO] [auth] Login success for 1001
+2025-04-13 01:56:32,550 [INFO] [main] Rendering chatbot page
+2025-04-13 02:01:13,255 [INFO] [main] Rendering chatbot page
+2025-04-13 02:09:31,319 [INFO] [main] Rendering login page
+2025-04-13 02:09:34,443 [INFO] [config] Database connection established
+2025-04-13 02:09:34,448 [INFO] [auth] Login success for 1001
+2025-04-13 02:09:34,460 [INFO] [main] Rendering chatbot page
+2025-04-13 02:14:59,199 [INFO] [main] Rendering login page
+2025-04-13 02:15:00,944 [INFO] [config] Database connection established
+2025-04-13 02:15:00,947 [INFO] [auth] Login success for 1001
+2025-04-13 02:15:00,962 [INFO] [main] Rendering chatbot page
+2025-04-13 02:16:51,069 [INFO] [main] Rendering login page
+2025-04-13 02:16:52,691 [INFO] [config] Database connection established
+2025-04-13 02:16:52,693 [INFO] [auth] Login success for 1001
+2025-04-13 02:16:52,704 [INFO] [main] Rendering chatbot page
+2025-04-13 02:17:18,931 [INFO] [main] Rendering login page
+2025-04-13 02:17:21,834 [INFO] [config] Database connection established
+2025-04-13 02:17:21,838 [INFO] [auth] Login success for 1001
+2025-04-13 02:17:21,851 [INFO] [main] Rendering chatbot page
+2025-04-13 02:17:55,534 [INFO] [main] Rendering login page
+2025-04-13 02:17:58,383 [INFO] [config] Database connection established
+2025-04-13 02:17:58,385 [INFO] [auth] Login success for 1001
+2025-04-13 02:17:58,397 [INFO] [main] Rendering chatbot page
+2025-04-13 02:19:41,447 [INFO] [main] Rendering login page
+2025-04-13 02:19:42,949 [INFO] [config] Database connection established
+2025-04-13 02:19:42,952 [INFO] [auth] Login success for 1001
+2025-04-13 02:19:42,964 [INFO] [main] Rendering chatbot page
+2025-04-13 02:19:42,964 [INFO] [main] Chatbot page username: there
+2025-04-13 02:21:23,647 [INFO] [main] Rendering login page
+2025-04-13 02:21:26,584 [INFO] [config] Database connection established
+2025-04-13 02:21:26,588 [INFO] [auth] Login success for 1001
+2025-04-13 02:21:26,600 [INFO] [main] Rendering chatbot page
+2025-04-13 02:21:26,600 [INFO] [main] Chatbot page username from cookie: None
+2025-04-13 02:21:26,601 [WARNING] [main] No username cookie found. Defaulting to 'there'.
+2025-04-13 02:24:40,702 [INFO] [main] Rendering chatbot page
+2025-04-13 02:24:40,702 [INFO] [main] Chatbot page username from cookie: None
+2025-04-13 02:24:40,703 [WARNING] [main] No username cookie found. Defaulting to 'there'.
+2025-04-13 02:24:48,394 [INFO] [main] Rendering login page
+2025-04-13 02:24:51,266 [INFO] [auth] Login attempt for employee_id: 1001
+2025-04-13 02:24:51,267 [ERROR] [auth] Login failed: name 'get_employee_by_id' is not defined
+2025-04-13 02:25:55,602 [INFO] [main] Rendering login page
+2025-04-13 02:26:06,355 [INFO] [auth] Login attempt for employee_id: 1001
+2025-04-13 02:26:06,355 [ERROR] [auth] Login failed: name 'get_employee_by_id' is not defined
+2025-04-13 02:33:51,029 [INFO] [main] Rendering login page
+2025-04-13 02:33:59,011 [INFO] [auth] Login attempt for employee_id: 1001
+2025-04-13 02:33:59,012 [INFO] [auth] Login success for 1001
+2025-04-13 02:33:59,024 [INFO] [main] Rendering chatbot page
+2025-04-13 02:33:59,024 [INFO] [main] Chatbot page username from cookie: Raju Singha
+2025-04-13 02:34:08,160 [INFO] [main] Rendering login page
+2025-04-13 02:34:10,574 [INFO] [main] Rendering signup page
+2025-04-13 02:36:53,906 [INFO] [main] Rendering signup page
+2025-04-13 02:38:59,074 [INFO] [main] Rendering signup page
+2025-04-13 02:42:08,539 [INFO] [main] Rendering login page
+2025-04-13 02:42:10,784 [INFO] [main] Rendering signup page
+2025-04-13 02:44:29,475 [INFO] [main] Rendering login page
+2025-04-13 02:44:32,308 [INFO] [main] Rendering signup page
+2025-04-13 02:44:43,366 [ERROR] [auth] Signup error: name 'connect_to_db' is not defined
+2025-04-13 02:45:33,347 [INFO] [main] Rendering login page
+2025-04-13 02:47:12,425 [INFO] [main] Rendering signup page
+2025-04-13 02:47:12,425 [INFO] [main] Rendering signup page
+2025-04-13 02:47:12,426 [INFO] [main] Rendering signup page
+2025-04-13 02:47:27,221 [ERROR] [auth] Signup error: name 'connect_to_db' is not defined
+2025-04-13 02:48:05,498 [ERROR] [auth] Signup error: name 'connect_to_db' is not defined
+2025-04-13 02:48:12,579 [INFO] [main] Rendering login page
+2025-04-13 02:48:14,241 [INFO] [main] Rendering signup page
+2025-04-13 02:48:21,675 [INFO] [config] Database connection established
+2025-04-13 02:48:21,700 [ERROR] [auth] Signup error: 1146 (42S02): Table 'smart_enterprise.employees' doesn't exist
+2025-04-13 02:50:21,192 [INFO] [config] Database connection established
+2025-04-13 02:50:21,196 [ERROR] [auth] Signup error: 1146 (42S02): Table 'smart_enterprise.employees' doesn't exist
+2025-04-13 02:50:28,408 [INFO] [main] Rendering login page
+2025-04-13 02:50:31,734 [INFO] [main] Rendering signup page
+2025-04-13 02:50:40,527 [INFO] [config] Database connection established
+2025-04-13 02:50:40,530 [ERROR] [auth] Signup error: 1146 (42S02): Table 'smart_enterprise.employees' doesn't exist
+2025-04-13 13:03:13,980 [INFO] [main] Rendering signup page
+2025-04-13 13:03:24,901 [INFO] [main] Rendering login page
+2025-04-13 13:03:35,218 [INFO] [main] Rendering signup page
+2025-04-13 13:03:53,602 [INFO] [config] Database connection established
+2025-04-13 13:03:53,634 [ERROR] [auth] Signup error: name 'hashlib' is not defined
+2025-04-13 13:04:43,767 [INFO] [main] Rendering login page
+2025-04-13 13:04:45,470 [INFO] [main] Rendering signup page
+2025-04-13 13:04:51,527 [INFO] [config] Database connection established
+2025-04-13 13:04:57,462 [INFO] [main] Rendering login page
+2025-04-13 13:05:09,013 [INFO] [auth] Login attempt for employee_id: 1002
+2025-04-13 13:05:09,014 [WARNING] [auth] Invalid credentials
+2025-04-13 13:06:30,709 [INFO] [main] Rendering login page
+2025-04-13 13:06:47,454 [INFO] [auth] Login attempt for employee_id: 1002
+2025-04-13 13:06:47,509 [INFO] [config] Database connection established
+2025-04-13 13:06:47,598 [INFO] [main] Rendering chatbot page
+2025-04-13 13:06:47,599 [INFO] [main] Chatbot page username from cookie: John Smith

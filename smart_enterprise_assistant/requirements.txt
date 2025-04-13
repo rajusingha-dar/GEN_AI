@@ -1,0 +1,28 @@
+fastapi
+langchain_openai
+langchain
+langgraph
+openai
+streamlit
+pandas
+faiss-cpu
+# chromadb
+python-dotenv
+sqlalchemy
+sqlite-utils
+PyPDF2
+tiktoken
+langsmith
+
+
+fastapi
+uvicorn
+openai
+python-dotenv
+mysql-connector-python
+jinja2
+pydantic
+pydantic[email]
+
+
+# pip install fastapi "uvicorn[standard]" pydantic mysql-connector-python

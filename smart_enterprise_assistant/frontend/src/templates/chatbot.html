@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Smart Enterprise Chatbot</title>
+  <link rel="stylesheet" href="/static/css/chatbot.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <h1 class="chat-header">Smart Enterprise Assistant</h1>
+
+    <div id="chat-window" class="chat-window"></div>
+
+    <form id="chat-form" class="chat-form">
+      <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" required />
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+  <script>
+    const username = "{{ username }}"; // Passed from cookie (not hardcoded)
+  </script>
+  <script src="/static/js/chatbot.js"></script>
+</body>
+</html>
